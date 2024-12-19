@@ -1,0 +1,10 @@
+name = "f2l"
+type = "python"
+
+account_id = "2b13c2a7b5212e14a6cefad6af1c43bb"
+workers_dev = true
+compatibility_date = "2024-01-01"
+
+[env.production]
+workers_dev = false
+compatibility_date = "2024-01-01"

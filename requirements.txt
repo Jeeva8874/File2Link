@@ -1,0 +1,15 @@
+git+https://github.com/KurimuzonAkuma/pyrogram.git
+tgcrypto
+aiohttp
+python-dotenv
+motor
+aiofiles
+shortzy
+dnspython
+apscheduler
+requests
+psutil
+pytz
+pyromod
+pymongo
+aiohttp_jinja2

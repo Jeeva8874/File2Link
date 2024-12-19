@@ -1,0 +1,1329 @@
+[
+  {
+    "label": "os",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "os",
+    "description": "os",
+    "detail": "os",
+    "documentation": {}
+  },
+  {
+    "label": "environ",
+    "importPath": "os",
+    "description": "os",
+    "isExtraImport": true,
+    "detail": "os",
+    "documentation": {}
+  },
+  {
+    "label": "getenv",
+    "importPath": "os",
+    "description": "os",
+    "isExtraImport": true,
+    "detail": "os",
+    "documentation": {}
+  },
+  {
+    "label": "environ",
+    "importPath": "os",
+    "description": "os",
+    "isExtraImport": true,
+    "detail": "os",
+    "documentation": {}
+  },
+  {
+    "label": "time",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "time",
+    "description": "time",
+    "detail": "time",
+    "documentation": {}
+  },
+  {
+    "label": "string",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "string",
+    "description": "string",
+    "detail": "string",
+    "documentation": {}
+  },
+  {
+    "label": "random",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "random",
+    "description": "random",
+    "detail": "random",
+    "documentation": {}
+  },
+  {
+    "label": "asyncio",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "asyncio",
+    "description": "asyncio",
+    "detail": "asyncio",
+    "documentation": {}
+  },
+  {
+    "label": "TimeoutError",
+    "importPath": "asyncio",
+    "description": "asyncio",
+    "isExtraImport": true,
+    "detail": "asyncio",
+    "documentation": {}
+  },
+  {
+    "label": "TimeoutError",
+    "importPath": "asyncio",
+    "description": "asyncio",
+    "isExtraImport": true,
+    "detail": "asyncio",
+    "documentation": {}
+  },
+  {
+    "label": "aiofiles",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "aiofiles",
+    "description": "aiofiles",
+    "detail": "aiofiles",
+    "documentation": {}
+  },
+  {
+    "label": "datetime",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "datetime",
+    "description": "datetime",
+    "detail": "datetime",
+    "documentation": {}
+  },
+  {
+    "label": "datetime",
+    "importPath": "datetime",
+    "description": "datetime",
+    "isExtraImport": true,
+    "detail": "datetime",
+    "documentation": {}
+  },
+  {
+    "label": "Database",
+    "importPath": "MadxMoviez.utils.database",
+    "description": "MadxMoviez.utils.database",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.database",
+    "documentation": {}
+  },
+  {
+    "label": "Database",
+    "importPath": "MadxMoviez.utils.database",
+    "description": "MadxMoviez.utils.database",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.database",
+    "documentation": {}
+  },
+  {
+    "label": "Database",
+    "importPath": "MadxMoviez.utils.database",
+    "description": "MadxMoviez.utils.database",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.database",
+    "documentation": {}
+  },
+  {
+    "label": "StreamBot",
+    "importPath": "MadxMoviez.bot",
+    "description": "MadxMoviez.bot",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.bot",
+    "documentation": {}
+  },
+  {
+    "label": "StreamBot",
+    "importPath": "MadxMoviez.bot",
+    "description": "MadxMoviez.bot",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.bot",
+    "documentation": {}
+  },
+  {
+    "label": "StreamBot",
+    "importPath": "MadxMoviez.bot",
+    "description": "MadxMoviez.bot",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.bot",
+    "documentation": {}
+  },
+  {
+    "label": "StreamBot",
+    "importPath": "MadxMoviez.bot",
+    "description": "MadxMoviez.bot",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.bot",
+    "documentation": {}
+  },
+  {
+    "label": "multi_clients",
+    "importPath": "MadxMoviez.bot",
+    "description": "MadxMoviez.bot",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.bot",
+    "documentation": {}
+  },
+  {
+    "label": "work_loads",
+    "importPath": "MadxMoviez.bot",
+    "description": "MadxMoviez.bot",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.bot",
+    "documentation": {}
+  },
+  {
+    "label": "StreamBot",
+    "importPath": "MadxMoviez.bot",
+    "description": "MadxMoviez.bot",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.bot",
+    "documentation": {}
+  },
+  {
+    "label": "work_loads",
+    "importPath": "MadxMoviez.bot",
+    "description": "MadxMoviez.bot",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.bot",
+    "documentation": {}
+  },
+  {
+    "label": "StreamBot",
+    "importPath": "MadxMoviez.bot",
+    "description": "MadxMoviez.bot",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.bot",
+    "documentation": {}
+  },
+  {
+    "label": "Var",
+    "importPath": "MadxMoviez.vars",
+    "description": "MadxMoviez.vars",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.vars",
+    "documentation": {}
+  },
+  {
+    "label": "Var",
+    "importPath": "MadxMoviez.vars",
+    "description": "MadxMoviez.vars",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.vars",
+    "documentation": {}
+  },
+  {
+    "label": "Var",
+    "importPath": "MadxMoviez.vars",
+    "description": "MadxMoviez.vars",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.vars",
+    "documentation": {}
+  },
+  {
+    "label": "Var",
+    "importPath": "MadxMoviez.vars",
+    "description": "MadxMoviez.vars",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.vars",
+    "documentation": {}
+  },
+  {
+    "label": "Var",
+    "importPath": "MadxMoviez.vars",
+    "description": "MadxMoviez.vars",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.vars",
+    "documentation": {}
+  },
+  {
+    "label": "Var",
+    "importPath": "MadxMoviez.vars",
+    "description": "MadxMoviez.vars",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.vars",
+    "documentation": {}
+  },
+  {
+    "label": "Var",
+    "importPath": "MadxMoviez.vars",
+    "description": "MadxMoviez.vars",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.vars",
+    "documentation": {}
+  },
+  {
+    "label": "Var",
+    "importPath": "MadxMoviez.vars",
+    "description": "MadxMoviez.vars",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.vars",
+    "documentation": {}
+  },
+  {
+    "label": "filters",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "Client",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "filters",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "Client",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "filters",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "enums",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "filters",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "Client",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "enums",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "Client",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "Client",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "utils",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "raw",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "Client",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "filters",
+    "importPath": "pyrogram",
+    "description": "pyrogram",
+    "isExtraImport": true,
+    "detail": "pyrogram",
+    "documentation": {}
+  },
+  {
+    "label": "Message",
+    "importPath": "pyrogram.types",
+    "description": "pyrogram.types",
+    "isExtraImport": true,
+    "detail": "pyrogram.types",
+    "documentation": {}
+  },
+  {
+    "label": "InlineKeyboardMarkup",
+    "importPath": "pyrogram.types",
+    "description": "pyrogram.types",
+    "isExtraImport": true,
+    "detail": "pyrogram.types",
+    "documentation": {}
+  },
+  {
+    "label": "InlineKeyboardButton",
+    "importPath": "pyrogram.types",
+    "description": "pyrogram.types",
+    "isExtraImport": true,
+    "detail": "pyrogram.types",
+    "documentation": {}
+  },
+  {
+    "label": "InlineKeyboardMarkup",
+    "importPath": "pyrogram.types",
+    "description": "pyrogram.types",
+    "isExtraImport": true,
+    "detail": "pyrogram.types",
+    "documentation": {}
+  },
+  {
+    "label": "InlineKeyboardButton",
+    "importPath": "pyrogram.types",
+    "description": "pyrogram.types",
+    "isExtraImport": true,
+    "detail": "pyrogram.types",
+    "documentation": {}
+  },
+  {
+    "label": "CallbackQuery",
+    "importPath": "pyrogram.types",
+    "description": "pyrogram.types",
+    "isExtraImport": true,
+    "detail": "pyrogram.types",
+    "documentation": {}
+  },
+  {
+    "label": "ReplyKeyboardMarkup",
+    "importPath": "pyrogram.types",
+    "description": "pyrogram.types",
+    "isExtraImport": true,
+    "detail": "pyrogram.types",
+    "documentation": {}
+  },
+  {
+    "label": "Message",
+    "importPath": "pyrogram.types",
+    "description": "pyrogram.types",
+    "isExtraImport": true,
+    "detail": "pyrogram.types",
+    "documentation": {}
+  },
+  {
+    "label": "InlineKeyboardMarkup",
+    "importPath": "pyrogram.types",
+    "description": "pyrogram.types",
+    "isExtraImport": true,
+    "detail": "pyrogram.types",
+    "documentation": {}
+  },
+  {
+    "label": "InlineKeyboardButton",
+    "importPath": "pyrogram.types",
+    "description": "pyrogram.types",
+    "isExtraImport": true,
+    "detail": "pyrogram.types",
+    "documentation": {}
+  },
+  {
+    "label": "CallbackQuery",
+    "importPath": "pyrogram.types",
+    "description": "pyrogram.types",
+    "isExtraImport": true,
+    "detail": "pyrogram.types",
+    "documentation": {}
+  },
+  {
+    "label": "Message",
+    "importPath": "pyrogram.types",
+    "description": "pyrogram.types",
+    "isExtraImport": true,
+    "detail": "pyrogram.types",
+    "documentation": {}
+  },
+  {
+    "label": "shutil,",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "shutil.",
+    "description": "shutil.",
+    "detail": "shutil.",
+    "documentation": {}
+  },
+  {
+    "label": "*",
+    "importPath": "utils_bot",
+    "description": "utils_bot",
+    "isExtraImport": true,
+    "detail": "utils_bot",
+    "documentation": {}
+  },
+  {
+    "label": "StartTime",
+    "importPath": "MadxMoviez",
+    "description": "MadxMoviez",
+    "isExtraImport": true,
+    "detail": "MadxMoviez",
+    "documentation": {}
+  },
+  {
+    "label": "StartTime",
+    "importPath": "MadxMoviez",
+    "description": "MadxMoviez",
+    "isExtraImport": true,
+    "detail": "MadxMoviez",
+    "documentation": {}
+  },
+  {
+    "label": "__version__",
+    "importPath": "MadxMoviez",
+    "description": "MadxMoviez",
+    "isExtraImport": true,
+    "detail": "MadxMoviez",
+    "documentation": {}
+  },
+  {
+    "label": "logging,",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "logging.",
+    "description": "logging.",
+    "detail": "logging.",
+    "documentation": {}
+  },
+  {
+    "label": "MY_PASS",
+    "importPath": "MadxMoviez.bot.plugins.stream",
+    "description": "MadxMoviez.bot.plugins.stream",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.bot.plugins.stream",
+    "documentation": {}
+  },
+  {
+    "label": "humanbytes",
+    "importPath": "MadxMoviez.utils.human_readable",
+    "description": "MadxMoviez.utils.human_readable",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.human_readable",
+    "documentation": {}
+  },
+  {
+    "label": "humanbytes",
+    "importPath": "MadxMoviez.utils.human_readable",
+    "description": "MadxMoviez.utils.human_readable",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.human_readable",
+    "documentation": {}
+  },
+  {
+    "label": "humanbytes",
+    "importPath": "MadxMoviez.utils.human_readable",
+    "description": "MadxMoviez.utils.human_readable",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.human_readable",
+    "documentation": {}
+  },
+  {
+    "label": "script",
+    "importPath": "Script",
+    "description": "Script",
+    "isExtraImport": true,
+    "detail": "Script",
+    "documentation": {}
+  },
+  {
+    "label": "UserNotParticipant",
+    "importPath": "pyrogram.errors",
+    "description": "pyrogram.errors",
+    "isExtraImport": true,
+    "detail": "pyrogram.errors",
+    "documentation": {}
+  },
+  {
+    "label": "FloodWait",
+    "importPath": "pyrogram.errors",
+    "description": "pyrogram.errors",
+    "isExtraImport": true,
+    "detail": "pyrogram.errors",
+    "documentation": {}
+  },
+  {
+    "label": "UserNotParticipant",
+    "importPath": "pyrogram.errors",
+    "description": "pyrogram.errors",
+    "isExtraImport": true,
+    "detail": "pyrogram.errors",
+    "documentation": {}
+  },
+  {
+    "label": "FloodWait",
+    "importPath": "pyrogram.errors",
+    "description": "pyrogram.errors",
+    "isExtraImport": true,
+    "detail": "pyrogram.errors",
+    "documentation": {}
+  },
+  {
+    "label": "InputUserDeactivated",
+    "importPath": "pyrogram.errors",
+    "description": "pyrogram.errors",
+    "isExtraImport": true,
+    "detail": "pyrogram.errors",
+    "documentation": {}
+  },
+  {
+    "label": "UserIsBlocked",
+    "importPath": "pyrogram.errors",
+    "description": "pyrogram.errors",
+    "isExtraImport": true,
+    "detail": "pyrogram.errors",
+    "documentation": {}
+  },
+  {
+    "label": "PeerIdInvalid",
+    "importPath": "pyrogram.errors",
+    "description": "pyrogram.errors",
+    "isExtraImport": true,
+    "detail": "pyrogram.errors",
+    "documentation": {}
+  },
+  {
+    "label": "AuthBytesInvalid",
+    "importPath": "pyrogram.errors",
+    "description": "pyrogram.errors",
+    "isExtraImport": true,
+    "detail": "pyrogram.errors",
+    "documentation": {}
+  },
+  {
+    "label": "get_name",
+    "importPath": "MadxMoviez.utils.file_properties",
+    "description": "MadxMoviez.utils.file_properties",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.file_properties",
+    "documentation": {}
+  },
+  {
+    "label": "get_hash",
+    "importPath": "MadxMoviez.utils.file_properties",
+    "description": "MadxMoviez.utils.file_properties",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.file_properties",
+    "documentation": {}
+  },
+  {
+    "label": "get_media_file_size",
+    "importPath": "MadxMoviez.utils.file_properties",
+    "description": "MadxMoviez.utils.file_properties",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.file_properties",
+    "documentation": {}
+  },
+  {
+    "label": "get_name",
+    "importPath": "MadxMoviez.utils.file_properties",
+    "description": "MadxMoviez.utils.file_properties",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.file_properties",
+    "documentation": {}
+  },
+  {
+    "label": "get_hash",
+    "importPath": "MadxMoviez.utils.file_properties",
+    "description": "MadxMoviez.utils.file_properties",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.file_properties",
+    "documentation": {}
+  },
+  {
+    "label": "get_media_file_size",
+    "importPath": "MadxMoviez.utils.file_properties",
+    "description": "MadxMoviez.utils.file_properties",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.file_properties",
+    "documentation": {}
+  },
+  {
+    "label": "get_file_ids",
+    "importPath": "MadxMoviez.utils.file_properties",
+    "description": "MadxMoviez.utils.file_properties",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.file_properties",
+    "documentation": {}
+  },
+  {
+    "label": "urllib.parse",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "urllib.parse",
+    "description": "urllib.parse",
+    "detail": "urllib.parse",
+    "documentation": {}
+  },
+  {
+    "label": "quote_plus",
+    "importPath": "urllib.parse",
+    "description": "urllib.parse",
+    "isExtraImport": true,
+    "detail": "urllib.parse",
+    "documentation": {}
+  },
+  {
+    "label": "Shortzy",
+    "importPath": "shortzy",
+    "description": "shortzy",
+    "isExtraImport": true,
+    "detail": "shortzy",
+    "documentation": {}
+  },
+  {
+    "label": "logging",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "logging",
+    "description": "logging",
+    "detail": "logging",
+    "documentation": {}
+  },
+  {
+    "label": "TokenParser",
+    "importPath": "MadxMoviez.utils.config_parser",
+    "description": "MadxMoviez.utils.config_parser",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.config_parser",
+    "documentation": {}
+  },
+  {
+    "label": "re",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "re",
+    "description": "re",
+    "detail": "re",
+    "documentation": {}
+  },
+  {
+    "label": "math",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "math",
+    "description": "math",
+    "detail": "math",
+    "documentation": {}
+  },
+  {
+    "label": "secrets",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "secrets",
+    "description": "secrets",
+    "detail": "secrets",
+    "documentation": {}
+  },
+  {
+    "label": "mimetypes",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "mimetypes",
+    "description": "mimetypes",
+    "detail": "mimetypes",
+    "documentation": {}
+  },
+  {
+    "label": "aiohttp",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "aiohttp",
+    "description": "aiohttp",
+    "detail": "aiohttp",
+    "documentation": {}
+  },
+  {
+    "label": "web",
+    "importPath": "aiohttp",
+    "description": "aiohttp",
+    "isExtraImport": true,
+    "detail": "aiohttp",
+    "documentation": {}
+  },
+  {
+    "label": "BadStatusLine",
+    "importPath": "aiohttp.http_exceptions",
+    "description": "aiohttp.http_exceptions",
+    "isExtraImport": true,
+    "detail": "aiohttp.http_exceptions",
+    "documentation": {}
+  },
+  {
+    "label": "FIleNotFound",
+    "importPath": "MadxMoviez.server.exceptions",
+    "description": "MadxMoviez.server.exceptions",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.server.exceptions",
+    "documentation": {}
+  },
+  {
+    "label": "InvalidHash",
+    "importPath": "MadxMoviez.server.exceptions",
+    "description": "MadxMoviez.server.exceptions",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.server.exceptions",
+    "documentation": {}
+  },
+  {
+    "label": "FIleNotFound",
+    "importPath": "MadxMoviez.server.exceptions",
+    "description": "MadxMoviez.server.exceptions",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.server.exceptions",
+    "documentation": {}
+  },
+  {
+    "label": "FIleNotFound",
+    "importPath": "MadxMoviez.server.exceptions",
+    "description": "MadxMoviez.server.exceptions",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.server.exceptions",
+    "documentation": {}
+  },
+  {
+    "label": "InvalidHash",
+    "importPath": "MadxMoviez.server.exceptions",
+    "description": "MadxMoviez.server.exceptions",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.server.exceptions",
+    "documentation": {}
+  },
+  {
+    "label": "render_page",
+    "importPath": "MadxMoviez.utils.render_template",
+    "description": "MadxMoviez.utils.render_template",
+    "isExtraImport": true,
+    "detail": "MadxMoviez.utils.render_template",
+    "documentation": {}
+  },
+  {
+    "label": "traceback",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "traceback",
+    "description": "traceback",
+    "detail": "traceback",
+    "documentation": {}
+  },
+  {
+    "label": "Dict",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Optional",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Dict",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Union",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Any",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Optional",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Session",
+    "importPath": "pyrogram.session",
+    "description": "pyrogram.session",
+    "isExtraImport": true,
+    "detail": "pyrogram.session",
+    "documentation": {}
+  },
+  {
+    "label": "Auth",
+    "importPath": "pyrogram.session",
+    "description": "pyrogram.session",
+    "isExtraImport": true,
+    "detail": "pyrogram.session",
+    "documentation": {}
+  },
+  {
+    "label": "FileId",
+    "importPath": "pyrogram.file_id",
+    "description": "pyrogram.file_id",
+    "isExtraImport": true,
+    "detail": "pyrogram.file_id",
+    "documentation": {}
+  },
+  {
+    "label": "FileType",
+    "importPath": "pyrogram.file_id",
+    "description": "pyrogram.file_id",
+    "isExtraImport": true,
+    "detail": "pyrogram.file_id",
+    "documentation": {}
+  },
+  {
+    "label": "ThumbnailSource",
+    "importPath": "pyrogram.file_id",
+    "description": "pyrogram.file_id",
+    "isExtraImport": true,
+    "detail": "pyrogram.file_id",
+    "documentation": {}
+  },
+  {
+    "label": "FileId",
+    "importPath": "pyrogram.file_id",
+    "description": "pyrogram.file_id",
+    "isExtraImport": true,
+    "detail": "pyrogram.file_id",
+    "documentation": {}
+  },
+  {
+    "label": "motor.motor_asyncio",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "motor.motor_asyncio",
+    "description": "motor.motor_asyncio",
+    "detail": "motor.motor_asyncio",
+    "documentation": {}
+  },
+  {
+    "label": "send_log",
+    "importPath": "utils",
+    "description": "utils",
+    "isExtraImport": true,
+    "detail": "utils",
+    "documentation": {}
+  },
+  {
+    "label": "Messages",
+    "importPath": "pyrogram.raw.types.messages",
+    "description": "pyrogram.raw.types.messages",
+    "isExtraImport": true,
+    "detail": "pyrogram.raw.types.messages",
+    "documentation": {}
+  },
+  {
+    "label": "os,",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "os.",
+    "description": "os.",
+    "detail": "os.",
+    "documentation": {}
+  },
+  {
+    "label": "load_dotenv",
+    "importPath": "dotenv",
+    "description": "dotenv",
+    "isExtraImport": true,
+    "detail": "dotenv",
+    "documentation": {}
+  },
+  {
+    "label": "math,",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "math.",
+    "description": "math.",
+    "detail": "math.",
+    "documentation": {}
+  },
+  {
+    "label": "timezone",
+    "importPath": "pytz",
+    "description": "pytz",
+    "isExtraImport": true,
+    "detail": "pytz",
+    "documentation": {}
+  },
+  {
+    "label": "threading",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "threading",
+    "description": "threading",
+    "detail": "threading",
+    "documentation": {}
+  },
+  {
+    "label": "db",
+    "kind": 5,
+    "importPath": "MadxMoviez.bot.plugins.admin",
+    "description": "MadxMoviez.bot.plugins.admin",
+    "peekOfCode": "db = Database(Var.DATABASE_URL, Var.name)\nBroadcast_IDs = {}\n@StreamBot.on_message(filters.command(\"users\") & filters.private )\nasync def sts(c: Client, m: Message):\n    user_id=m.from_user.id\n    if user_id in Var.OWNER_ID:\n        total_users = await db.total_users_count()\n        await m.reply_text(text=f\"Total Users in DB: {total_users}\", quote=True)\nasync def broadcast_messages_group(chat_id, message):\n    try:",
+    "detail": "MadxMoviez.bot.plugins.admin",
+    "documentation": {}
+  },
+  {
+    "label": "Broadcast_IDs",
+    "kind": 5,
+    "importPath": "MadxMoviez.bot.plugins.admin",
+    "description": "MadxMoviez.bot.plugins.admin",
+    "peekOfCode": "Broadcast_IDs = {}\n@StreamBot.on_message(filters.command(\"users\") & filters.private )\nasync def sts(c: Client, m: Message):\n    user_id=m.from_user.id\n    if user_id in Var.OWNER_ID:\n        total_users = await db.total_users_count()\n        await m.reply_text(text=f\"Total Users in DB: {total_users}\", quote=True)\nasync def broadcast_messages_group(chat_id, message):\n    try:\n        kd = await message.copy(chat_id=chat_id)",
+    "detail": "MadxMoviez.bot.plugins.admin",
+    "documentation": {}
+  },
+  {
+    "label": "START_TEXT",
+    "kind": 5,
+    "importPath": "MadxMoviez.bot.plugins.extra",
+    "description": "MadxMoviez.bot.plugins.extra",
+    "peekOfCode": "START_TEXT = \"\"\" Your Telegram DC Is : `{}`  \"\"\"\n@StreamBot.on_message(filters.regex(\"maintainers😎\"))\nasync def maintainers(b,m):\n    try:\n       await b.send_message(chat_id=m.chat.id,text=\"HELLO\",quote=True)\n    except Exception:\n                await b.send_message(\n                    chat_id=m.chat.id,\n                    text=\"I am Coded By [Ruban](https://t.me/ruban9124)\",\n                    reply_markup=InlineKeyboardMarkup(",
+    "detail": "MadxMoviez.bot.plugins.extra",
+    "documentation": {}
+  },
+  {
+    "label": "temp",
+    "kind": 6,
+    "importPath": "MadxMoviez.bot.plugins.start_help",
+    "description": "MadxMoviez.bot.plugins.start_help",
+    "peekOfCode": "class temp(object):\n    U_NAME = None\n    B_NAME = None\n@StreamBot.on_message(filters.group & filters.create(not_subscribed))\nasync def forces_sub(client, message):\n    buttons = [\n        [\n            InlineKeyboardButton(\n                text=\"🥀 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🥀\", url=f\"https://t.me/{Var.FORCE_SUB}\"\n            )",
+    "detail": "MadxMoviez.bot.plugins.start_help",
+    "documentation": {}
+  },
+  {
+    "label": "logger",
+    "kind": 5,
+    "importPath": "MadxMoviez.bot.plugins.start_help",
+    "description": "MadxMoviez.bot.plugins.start_help",
+    "peekOfCode": "logger = logging.getLogger(__name__)\nfrom MadxMoviez.bot.plugins.stream import MY_PASS\nfrom MadxMoviez.utils.human_readable import humanbytes\nfrom MadxMoviez.utils.database import Database\nfrom Script import script\nfrom pyrogram import Client, filters, enums\nfrom pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery\nfrom pyrogram.errors import UserNotParticipant\nfrom MadxMoviez.utils.file_properties import get_name, get_hash, get_media_file_size\ndb = Database(Var.DATABASE_URL, Var.name)",
+    "detail": "MadxMoviez.bot.plugins.start_help",
+    "documentation": {}
+  },
+  {
+    "label": "db",
+    "kind": 5,
+    "importPath": "MadxMoviez.bot.plugins.start_help",
+    "description": "MadxMoviez.bot.plugins.start_help",
+    "peekOfCode": "db = Database(Var.DATABASE_URL, Var.name)\nfrom pyrogram.types import ReplyKeyboardMarkup\nasync def not_subscribed(_, client, message):\n    await db.hs_add_user(client, message)\n    if not Var.FORCE_SUB:\n        return False\n    try:\n        user = await client.get_chat_member(Var.FORCE_SUB, message.from_user.id)\n        if user.status == enums.ChatMemberStatus.BANNED:\n            return True",
+    "detail": "MadxMoviez.bot.plugins.start_help",
+    "documentation": {}
+  },
+  {
+    "label": "temp",
+    "kind": 6,
+    "importPath": "MadxMoviez.bot.plugins.stream",
+    "description": "MadxMoviez.bot.plugins.stream",
+    "peekOfCode": "class temp(object):\n    U_NAME = None\n    B_NAME = None\n@StreamBot.on_message(filters.group & filters.command('set_caption'))\nasync def add_caption(c: Client, m: Message):\n    if len(m.command) == 1:\n       buttons = [[InlineKeyboardButton('⇇ ᴄʟᴏsᴇ ⇉', callback_data='close') ]]\n       return await m.reply_text(\"**ʜᴇʏ 👋\\n\\n<u>ɢɪᴠᴇ ᴛʜᴇ ᴄᴀᴩᴛɪᴏɴ</u>\\n\\nᴇxᴀᴍᴩʟᴇ:- `/set_caption <b>{file_name}\\n\\nSize : {file_size}\\n\\n➠ Fast Download Link :\\n{download_link}\\n\\n➠ Watch Link : {watch_link}</b>`**\", reply_markup=InlineKeyboardMarkup(buttons))\n    caption = m.text.split(\" \", 1)[1]\n    await db.set_caption(m.from_user.id, caption=caption)",
+    "detail": "MadxMoviez.bot.plugins.stream",
+    "documentation": {}
+  },
+  {
+    "label": "db",
+    "kind": 5,
+    "importPath": "MadxMoviez.bot.plugins.stream",
+    "description": "MadxMoviez.bot.plugins.stream",
+    "peekOfCode": "db = Database(Var.DATABASE_URL, Var.name)\nMY_PASS = os.environ.get(\"MY_PASS\", None)\npass_dict = {}\npass_db = Database(Var.DATABASE_URL, \"ag_passwords\")\nclass temp(object):\n    U_NAME = None\n    B_NAME = None\n@StreamBot.on_message(filters.group & filters.command('set_caption'))\nasync def add_caption(c: Client, m: Message):\n    if len(m.command) == 1:",
+    "detail": "MadxMoviez.bot.plugins.stream",
+    "documentation": {}
+  },
+  {
+    "label": "MY_PASS",
+    "kind": 5,
+    "importPath": "MadxMoviez.bot.plugins.stream",
+    "description": "MadxMoviez.bot.plugins.stream",
+    "peekOfCode": "MY_PASS = os.environ.get(\"MY_PASS\", None)\npass_dict = {}\npass_db = Database(Var.DATABASE_URL, \"ag_passwords\")\nclass temp(object):\n    U_NAME = None\n    B_NAME = None\n@StreamBot.on_message(filters.group & filters.command('set_caption'))\nasync def add_caption(c: Client, m: Message):\n    if len(m.command) == 1:\n       buttons = [[InlineKeyboardButton('⇇ ᴄʟᴏsᴇ ⇉', callback_data='close') ]]",
+    "detail": "MadxMoviez.bot.plugins.stream",
+    "documentation": {}
+  },
+  {
+    "label": "pass_dict",
+    "kind": 5,
+    "importPath": "MadxMoviez.bot.plugins.stream",
+    "description": "MadxMoviez.bot.plugins.stream",
+    "peekOfCode": "pass_dict = {}\npass_db = Database(Var.DATABASE_URL, \"ag_passwords\")\nclass temp(object):\n    U_NAME = None\n    B_NAME = None\n@StreamBot.on_message(filters.group & filters.command('set_caption'))\nasync def add_caption(c: Client, m: Message):\n    if len(m.command) == 1:\n       buttons = [[InlineKeyboardButton('⇇ ᴄʟᴏsᴇ ⇉', callback_data='close') ]]\n       return await m.reply_text(\"**ʜᴇʏ 👋\\n\\n<u>ɢɪᴠᴇ ᴛʜᴇ ᴄᴀᴩᴛɪᴏɴ</u>\\n\\nᴇxᴀᴍᴩʟᴇ:- `/set_caption <b>{file_name}\\n\\nSize : {file_size}\\n\\n➠ Fast Download Link :\\n{download_link}\\n\\n➠ Watch Link : {watch_link}</b>`**\", reply_markup=InlineKeyboardMarkup(buttons))",
+    "detail": "MadxMoviez.bot.plugins.stream",
+    "documentation": {}
+  },
+  {
+    "label": "pass_db",
+    "kind": 5,
+    "importPath": "MadxMoviez.bot.plugins.stream",
+    "description": "MadxMoviez.bot.plugins.stream",
+    "peekOfCode": "pass_db = Database(Var.DATABASE_URL, \"ag_passwords\")\nclass temp(object):\n    U_NAME = None\n    B_NAME = None\n@StreamBot.on_message(filters.group & filters.command('set_caption'))\nasync def add_caption(c: Client, m: Message):\n    if len(m.command) == 1:\n       buttons = [[InlineKeyboardButton('⇇ ᴄʟᴏsᴇ ⇉', callback_data='close') ]]\n       return await m.reply_text(\"**ʜᴇʏ 👋\\n\\n<u>ɢɪᴠᴇ ᴛʜᴇ ᴄᴀᴩᴛɪᴏɴ</u>\\n\\nᴇxᴀᴍᴩʟᴇ:- `/set_caption <b>{file_name}\\n\\nSize : {file_size}\\n\\n➠ Fast Download Link :\\n{download_link}\\n\\n➠ Watch Link : {watch_link}</b>`**\", reply_markup=InlineKeyboardMarkup(buttons))\n    caption = m.text.split(\" \", 1)[1]",
+    "detail": "MadxMoviez.bot.plugins.stream",
+    "documentation": {}
+  },
+  {
+    "label": "InvalidHash",
+    "kind": 6,
+    "importPath": "MadxMoviez.server.exceptions",
+    "description": "MadxMoviez.server.exceptions",
+    "peekOfCode": "class InvalidHash(Exception):\n    message = \"Invalid hash\"\nclass FIleNotFound(Exception):\n    message = \"File not found\"",
+    "detail": "MadxMoviez.server.exceptions",
+    "documentation": {}
+  },
+  {
+    "label": "FIleNotFound",
+    "kind": 6,
+    "importPath": "MadxMoviez.server.exceptions",
+    "description": "MadxMoviez.server.exceptions",
+    "peekOfCode": "class FIleNotFound(Exception):\n    message = \"File not found\"",
+    "detail": "MadxMoviez.server.exceptions",
+    "documentation": {}
+  },
+  {
+    "label": "routes",
+    "kind": 5,
+    "importPath": "MadxMoviez.server.stream_routes",
+    "description": "MadxMoviez.server.stream_routes",
+    "peekOfCode": "routes = web.RouteTableDef()\n@routes.get(\"/\", allow_head=True)\nasync def root_route_handler(_):\n    return web.json_response(\n        {\n            \"server_status\": \"running\",\n            \"uptime\": get_readable_time(time.time() - StartTime),\n            \"telegram_bot\": \"@\" + StreamBot.username,\n            \"connected_bots\": len(multi_clients),\n            \"loads\": dict(",
+    "detail": "MadxMoviez.server.stream_routes",
+    "documentation": {}
+  },
+  {
+    "label": "class_cache",
+    "kind": 5,
+    "importPath": "MadxMoviez.server.stream_routes",
+    "description": "MadxMoviez.server.stream_routes",
+    "peekOfCode": "class_cache = {}\nasync def media_streamer(request: web.Request, id: int, secure_hash: str):\n    range_header = request.headers.get(\"Range\", 0)\n    index = min(work_loads, key=work_loads.get)\n    faster_client = multi_clients[index]\n    if Var.MULTI_CLIENT:\n        logging.info(f\"Client {index} is now serving {request.remote}\")\n    if faster_client in class_cache:\n        tg_connect = class_cache[faster_client]\n        logging.debug(f\"Using cached ByteStreamer object for client {index}\")",
+    "detail": "MadxMoviez.server.stream_routes",
+    "documentation": {}
+  },
+  {
+    "label": "TokenParser",
+    "kind": 6,
+    "importPath": "MadxMoviez.utils.config_parser",
+    "description": "MadxMoviez.utils.config_parser",
+    "peekOfCode": "class TokenParser:\n    def __init__(self, config_file: Optional[str] = None):\n        self.tokens = {}\n        self.config_file = config_file\n    def parse_from_env(self) -> Dict[int, str]:\n        self.tokens = dict(\n            (c + 1, t)\n            for c, (_, t) in enumerate(\n                filter(\n                    lambda n: n[0].startswith(\"MULTI_TOKEN\"), sorted(environ.items())",
+    "detail": "MadxMoviez.utils.config_parser",
+    "documentation": {}
+  },
+  {
+    "label": "ByteStreamer",
+    "kind": 6,
+    "importPath": "MadxMoviez.utils.custom_dl",
+    "description": "MadxMoviez.utils.custom_dl",
+    "peekOfCode": "class ByteStreamer:\n    def __init__(self, client: Client):\n        \"\"\"A custom class that holds the cache of a specific client and class functions.\n        attributes:\n            client: the client that the cache is for.\n            cached_file_ids: a dict of cached file IDs.\n            cached_file_properties: a dict of cached file properties.\n        functions:\n            generate_file_properties: returns the properties for a media of a specific message contained in Tuple.\n            generate_media_session: returns the media session for the DC that contains the media file.",
+    "detail": "MadxMoviez.utils.custom_dl",
+    "documentation": {}
+  },
+  {
+    "label": "Database",
+    "kind": 6,
+    "importPath": "MadxMoviez.utils.database",
+    "description": "MadxMoviez.utils.database",
+    "peekOfCode": "class Database:\n    def __init__(self, uri, database_name):\n        self._client = motor.motor_asyncio.AsyncIOMotorClient(uri)\n        self.db = self._client[database_name]\n        self.col = self.db.users\n        self.grp = self.db.groups\n    def new_user(self, id):\n        return dict(\n            id=id,\n            join_date=datetime.date.today().isoformat(),",
+    "detail": "MadxMoviez.utils.database",
+    "documentation": {}
+  },
+  {
+    "label": "get_media_from_message",
+    "kind": 2,
+    "importPath": "MadxMoviez.utils.file_properties",
+    "description": "MadxMoviez.utils.file_properties",
+    "peekOfCode": "def get_media_from_message(message: \"Message\") -> Any:\n    media_types = (\n        \"audio\",\n        \"document\",\n        \"photo\",\n        \"sticker\",\n        \"animation\",\n        \"video\",\n        \"voice\",\n        \"video_note\",",
+    "detail": "MadxMoviez.utils.file_properties",
+    "documentation": {}
+  },
+  {
+    "label": "get_hash",
+    "kind": 2,
+    "importPath": "MadxMoviez.utils.file_properties",
+    "description": "MadxMoviez.utils.file_properties",
+    "peekOfCode": "def get_hash(media_msg: Message) -> str:\n    media = get_media_from_message(media_msg)\n    return getattr(media, \"file_unique_id\", \"\")[:6]\ndef get_name(media_msg: Message) -> str:\n    media = get_media_from_message(media_msg)\n    return getattr(media, 'file_name', \"\")\ndef get_media_file_size(m):\n    media = get_media_from_message(m)\n    return getattr(media, \"file_size\", 0)",
+    "detail": "MadxMoviez.utils.file_properties",
+    "documentation": {}
+  },
+  {
+    "label": "get_name",
+    "kind": 2,
+    "importPath": "MadxMoviez.utils.file_properties",
+    "description": "MadxMoviez.utils.file_properties",
+    "peekOfCode": "def get_name(media_msg: Message) -> str:\n    media = get_media_from_message(media_msg)\n    return getattr(media, 'file_name', \"\")\ndef get_media_file_size(m):\n    media = get_media_from_message(m)\n    return getattr(media, \"file_size\", 0)",
+    "detail": "MadxMoviez.utils.file_properties",
+    "documentation": {}
+  },
+  {
+    "label": "get_media_file_size",
+    "kind": 2,
+    "importPath": "MadxMoviez.utils.file_properties",
+    "description": "MadxMoviez.utils.file_properties",
+    "peekOfCode": "def get_media_file_size(m):\n    media = get_media_from_message(m)\n    return getattr(media, \"file_size\", 0)",
+    "detail": "MadxMoviez.utils.file_properties",
+    "documentation": {}
+  },
+  {
+    "label": "human_size",
+    "kind": 2,
+    "importPath": "MadxMoviez.utils.file_size",
+    "description": "MadxMoviez.utils.file_size",
+    "peekOfCode": "def human_size(bytes, units=[' bytes','KB','MB','GB','TB', 'PB', 'EB']):\n    \"\"\" Returns a human readable string representation of bytes \"\"\"\n    return str(bytes) + units[0] if int(bytes) < 1024 else human_size(int(bytes)>>10, units[1:])",
+    "detail": "MadxMoviez.utils.file_size",
+    "documentation": {}
+  },
+  {
+    "label": "humanbytes",
+    "kind": 2,
+    "importPath": "MadxMoviez.utils.human_readable",
+    "description": "MadxMoviez.utils.human_readable",
+    "peekOfCode": "def humanbytes(size):\n    # https://stackoverflow.com/a/49361727/4723940\n    # 2**10 = 1024\n    if not size:\n        return \"\"\n    power = 2**10\n    n = 0\n    Dic_powerN = {0: ' ', 1: 'Ki', 2: 'Mi', 3: 'Gi', 4: 'Ti'}\n    while size > power:\n        size /= power",
+    "detail": "MadxMoviez.utils.human_readable",
+    "documentation": {}
+  },
+  {
+    "label": "get_readable_time",
+    "kind": 2,
+    "importPath": "MadxMoviez.utils.time_format",
+    "description": "MadxMoviez.utils.time_format",
+    "peekOfCode": "def get_readable_time(seconds: int) -> str:\n    count = 0\n    readable_time = \"\"\n    time_list = []\n    time_suffix_list = [\"s\", \"m\", \"h\", \" days\"]\n    while count < 4:\n        count += 1\n        if count < 3:\n            remainder, result = divmod(seconds, 60)\n        else:",
+    "detail": "MadxMoviez.utils.time_format",
+    "documentation": {}
+  },
+  {
+    "label": "Var",
+    "kind": 6,
+    "importPath": "MadxMoviez.vars",
+    "description": "MadxMoviez.vars",
+    "peekOfCode": "class Var(object):\n    MULTI_CLIENT = False\n    API_ID = int(getenv(\"API_ID\", \"22642704\"))\n    API_HASH = str(getenv(\"API_HASH\", \"878698447412869d1b30bf929f32e86f\"))\n    BOT_TOKEN = str(\n        getenv(\"BOT_TOKEN\", \"7004943611:AAHV6nOrR4aF2UDahM2HZWofk_WHH2BCTcE\")\n    )\n    name = str(getenv(\"name\", \"filetolinkbot\"))\n    SLEEP_THRESHOLD = int(getenv(\"SLEEP_THRESHOLD\", \"60\"))\n    WORKERS = int(getenv(\"WORKERS\", \"4\"))",
+    "detail": "MadxMoviez.vars",
+    "documentation": {}
+  },
+  {
+    "label": "id_pattern",
+    "kind": 5,
+    "importPath": "MadxMoviez.vars",
+    "description": "MadxMoviez.vars",
+    "peekOfCode": "id_pattern = re.compile(r\"^.\\d+$\")\nload_dotenv()\nclass Var(object):\n    MULTI_CLIENT = False\n    API_ID = int(getenv(\"API_ID\", \"22642704\"))\n    API_HASH = str(getenv(\"API_HASH\", \"878698447412869d1b30bf929f32e86f\"))\n    BOT_TOKEN = str(\n        getenv(\"BOT_TOKEN\", \"7004943611:AAHV6nOrR4aF2UDahM2HZWofk_WHH2BCTcE\")\n    )\n    name = str(getenv(\"name\", \"filetolinkbot\"))",
+    "detail": "MadxMoviez.vars",
+    "documentation": {}
+  },
+  {
+    "label": "script",
+    "kind": 6,
+    "importPath": "Script",
+    "description": "Script",
+    "peekOfCode": "class script(object):\n    START_TXT = \"\"\"<b>ʜᴇʟʟᴏ {}!\\n\\nɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ғɪʟᴇ ᴛᴏ + sʜᴏʀᴛɴᴇʀ ʟɪɴᴋ ʙᴏᴛ ɪɴ 4ɢʙ\nᴡᴏʀᴋɪɴɢ ғᴏʀ ᴛʜɪs ɢʀᴏᴜᴘ ᴏɴʟʏ  !!\nᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴊᴏɪɴ👇\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/RUBAN9124>MS​</a> </b>\"\"\"\n    COMMENTS_TXT = \"\"\"<b><u> ⊹ ʜᴏᴡ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ᴏᴡɴ sʜᴏʀᴛɴᴇʀ ⊹</u>\n1. /shortner_url\n2. /shortner_api\n3. /set_caption\n4. /see_caption",
+    "detail": "Script",
+    "documentation": {}
+  },
+  {
+    "label": "setInterval",
+    "kind": 6,
+    "importPath": "utils_bot",
+    "description": "utils_bot",
+    "peekOfCode": "class setInterval:\n    def __init__(self, interval, action):\n        self.interval = interval\n        self.action = action\n        self.stopEvent = threading.Event()\n        thread = threading.Thread(target=self.__setInterval)\n        thread.start()\n    def __setInterval(self):\n        nextTime = time.time() + self.interval\n        while not self.stopEvent.wait(nextTime - time.time()):",
+    "detail": "utils_bot",
+    "documentation": {}
+  },
+  {
+    "label": "get_readable_file_size",
+    "kind": 2,
+    "importPath": "utils_bot",
+    "description": "utils_bot",
+    "peekOfCode": "def get_readable_file_size(size_in_bytes) -> str:\n    if size_in_bytes is None:\n        return '0B'\n    index = 0\n    while size_in_bytes >= 1024:\n        size_in_bytes /= 1024\n        index += 1\n    try:\n        return f'{round(size_in_bytes, 2)}{SIZE_UNITS[index]}'\n    except IndexError:",
+    "detail": "utils_bot",
+    "documentation": {}
+  },
+  {
+    "label": "get_readable_time",
+    "kind": 2,
+    "importPath": "utils_bot",
+    "description": "utils_bot",
+    "peekOfCode": "def get_readable_time(seconds: int) -> str:\n    result = ''\n    (days, remainder) = divmod(seconds, 86400)\n    days = int(days)\n    if days != 0:\n        result += f'{days}d'\n    (hours, remainder) = divmod(remainder, 3600)\n    hours = int(hours)\n    if hours != 0:\n        result += f'{hours}h'",
+    "detail": "utils_bot",
+    "documentation": {}
+  },
+  {
+    "label": "readable_time",
+    "kind": 2,
+    "importPath": "utils_bot",
+    "description": "utils_bot",
+    "peekOfCode": "def readable_time(seconds: int) -> str:\n    result = ''\n    (days, remainder) = divmod(seconds, 86400)\n    days = int(days)\n    if days != 0:\n        result += f'{days}d'\n    (hours, remainder) = divmod(remainder, 3600)\n    hours = int(hours)\n    if hours != 0:\n        result += f'{hours}h'",
+    "detail": "utils_bot",
+    "documentation": {}
+  },
+  {
+    "label": "LOGGER",
+    "kind": 5,
+    "importPath": "utils_bot",
+    "description": "utils_bot",
+    "peekOfCode": "LOGGER = logging.getLogger(__name__)\nSIZE_UNITS = ['B', 'KB', 'MB', 'GB', 'TB', 'PB']\nclass setInterval:\n    def __init__(self, interval, action):\n        self.interval = interval\n        self.action = action\n        self.stopEvent = threading.Event()\n        thread = threading.Thread(target=self.__setInterval)\n        thread.start()\n    def __setInterval(self):",
+    "detail": "utils_bot",
+    "documentation": {}
+  },
+  {
+    "label": "SIZE_UNITS",
+    "kind": 5,
+    "importPath": "utils_bot",
+    "description": "utils_bot",
+    "peekOfCode": "SIZE_UNITS = ['B', 'KB', 'MB', 'GB', 'TB', 'PB']\nclass setInterval:\n    def __init__(self, interval, action):\n        self.interval = interval\n        self.action = action\n        self.stopEvent = threading.Event()\n        thread = threading.Thread(target=self.__setInterval)\n        thread.start()\n    def __setInterval(self):\n        nextTime = time.time() + self.interval",
+    "detail": "utils_bot",
+    "documentation": {}
+  }
+]
