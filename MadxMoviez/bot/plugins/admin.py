@@ -8,7 +8,7 @@ import aiofiles
 import logging
 import datetime
 
-# from MadxMoviez.utils.broadcast_helper import send_msg
+from MadxMoviez.utils.broadcast_helper import send_msg
 from MadxMoviez.utils.database import Database
 from MadxMoviez.bot import StreamBot
 from MadxMoviez.vars import Var
