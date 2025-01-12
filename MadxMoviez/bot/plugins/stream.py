@@ -1,7 +1,7 @@
 import os
 import asyncio
 
-# from Script import script
+from Script import script
 from asyncio import TimeoutError
 from MadxMoviez.bot import StreamBot
 from MadxMoviez.utils.database import Database
@@ -114,7 +114,7 @@ async def private_receive_handler(c: Client, m: Message):
         hs_online_link = f"{Var.URL}{str(log_msg.id)}/{quote_plus(get_name(log_msg))}?MadxMoviez={get_hash(log_msg)}"
         online_link = await short_link(hs_online_link, user)
 
-        # msg_text ="""<b>📂 ғɪʟᴇ ɴᴀᴍᴇ : {file_name}\n\n📦 ғɪʟᴇ ꜱɪᴢᴇ : {file_size}\n\n📥 ғᴀsᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ :\n{download_link}\n\n🖥 ᴡᴀᴛᴄʜ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ  :\n{watch_link}</b>"""
+        msg_text ="""<b>📂 ғɪʟᴇ ɴᴀᴍᴇ : {file_name}\n\n📦 ғɪʟᴇ ꜱɪᴢᴇ : {file_size}\n\n📥 ғᴀsᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ :\n{download_link}\n\n🖥 ᴡᴀᴛᴄʜ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ  :\n{watch_link}</b>"""
 
         await log_msg.reply_text(
             text=f"**RᴇQᴜᴇꜱᴛᴇᴅ ʙʏ :** [{m.from_user.first_name}](tg://user?id={m.from_user.id})\n**Uꜱᴇʀ ɪᴅ :** `{m.from_user.id}`\n**Stream ʟɪɴᴋ :** {stream_link}",
@@ -166,11 +166,11 @@ async def short_link(link, user=None):
     return link
 
 
-# await c.send_cached_media(
-#            caption=caption,
-#            chat_id=-1001981587599,
-#            file_id=media.file_id
-#        )
+ await c.send_cached_media(
+            caption=caption,
+            chat_id=-1002205204150,
+            file_id=media.file_id
+        )
 
 
 async def get_shortlink(url, api, link):
@@ -178,8 +178,7 @@ async def get_shortlink(url, api, link):
     link = await shortzy.convert(link)
     return link
 
-
-# @StreamBot.on_message(filters.channel & ~filters.group & (filters.document | filters.video | filters.photo) & ~filters.forwarded, group=-1,)
+@StreamBot.on_message(filters.channel & ~filters.group & (filters.document | filters.video | filters.photo) & ~filters.forwarded, group=-1,)
 async def channel_receive_handler(bot, broadcast):
     try:
         message_id = broadcast.id
